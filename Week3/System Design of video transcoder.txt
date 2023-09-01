@@ -1,0 +1,19 @@
+CDN - Central Delivery Network
+POPs - Server around the world are callod POPs (Point Of Presence)
+
+Netlify and Vercel :- To deploy index.htmt (for frontend)
+
+For Backend :-   1> AWS/GCP/Azure
+		 2> Fly.io
+		 3> FireBase Functions
+
+Video APPs are different from  HTTP backends 	
+ 
+Auto Sacling Of Transcoding servers to bring down the cost
+You can do this with:-
+*Containerizaton of application
+*Serverless (pay per request Lambda AWS)
+
+AWS AutoScaling groups
+
+google fmf pack for transCoading
